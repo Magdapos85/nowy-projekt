@@ -1,0 +1,223 @@
+ body {
+   padding: 10px;
+ }
+
+li {
+    position: relative;
+    display: inline-block;
+    margin-right: 36px;
+
+}
+
+li a {
+     color: white;
+     text-decoration: none;
+     padding-right: 10px;
+}
+a i {
+  color: black !important;
+}
+
+
+ ul {
+   margin-right: 100px;
+   width: 100%;
+   margin-top: 32px;
+    margin-left: 331px;
+ }
+.margin {
+margin-left: 30%;
+width: 100%;
+}
+.page-subtitle{
+letter-spacing: 5px;
+word-spacing: 5px;
+margin-top: 234px;
+margin-left: 295px;
+
+}
+
+ .navigation {
+
+   background: url("https://images.pexels.com/photos/296121/pexels-photo-296121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+   padding: 12px 0 12px 0;
+ }
+
+.navigation ul {
+ padding: 0;
+ margin: 0;
+ list-style-type: none;
+ }
+
+
+
+.services {
+  margin-top: 10px;
+
+}
+.tytul {
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.tytul_btn{
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.tytul_item{
+  width: 30%;
+  margin-right: auto;
+  margin-left: 511px;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  min-width: 160px;
+  margin: 24px auto 0 auto;
+  padding: 16px;
+  border-radius: 5px;
+  font-family: "Inconsolata", monospace;
+  font-size: 16 px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-width: 2px;
+  border-style: solid;
+  background-position: 100% 0;
+  background-size: 300%;
+}
+
+.btn-one {
+  border-color: orange;
+  background-color: orange;
+  color: white;
+  background-image: yellow;
+  margin-right: auto;
+  margin-left: auto;
+  width; 10px;
+}
+h1 {
+  font-size: 36px;
+  font-weight: 400;
+  word-spacing: -24px;
+  line-height: 1.2;
+  color: white;
+  text-align: center;
+  font-style: italic;
+  margin-top: 203px;
+  margin-left: 281px;
+ }
+
+h2 {
+  margin: 24px 0;
+  font-weight: 700;
+  font-size: 72px;
+  color: white;
+  text-align: center;
+}
+.opisy {
+  padding: 20px;
+  display: flex;
+
+}
+.opisy_item {
+
+  min-width: 29%;
+  margin: 20px;
+  display: block;
+  background-color: white;
+}
+.opisy_center {
+
+  margin-right: auto;
+  margin-left: auto;
+  display:flex;
+  padding:20px;
+  width: 100%;
+  margin-left: 20%;
+}
+.box {
+  margin-left:200px;
+}
+.icon{
+  margin-right: auto;
+  margin-left: auto;
+  width: 20px;
+}
+.text_short {
+  margin-right: auto;
+  margin-left: auto;
+  width: 30px;
+}
+.text_long {
+  margin-right: auto;
+  margin-left: auto;
+  width: 20px;
+}
+.opisy_center2 {
+
+  margin-right: auto;
+  margin-left: auto;
+  display:flex;
+  padding:20px;
+  width: 100%;
+}
+.obrazek img {
+  width: 100%;
+  padding-left:0%;
+}
+.services2 {
+  background-color: lightgrey;
+}
+.opisy-item {
+  background-color: white !important;
+}
+.border_radius {
+  border-radius: 60%;
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  min-width: 30px;
+}
+.fab fa-twitter {
+    padding: 10px;
+    color: white !important;
+    font-size: 22px;
+  }
+.fab fa-facebook-f {
+  padding: 8px;
+  color: white;
+  font-size: 22px;
+}
+.fab fa-pinterest {
+  padding: 8px;
+  color: white;
+  font-size: 22px;
+}
+.fab fa-google-plus{
+  padding: 8px;
+  color: white;
+  font-size: 22px;
+}
+.fa-twitter:before {
+color: white;
+}
+.fa-facebook-f:before {
+  color: white;
+}
+.fa-pinterest:before {
+  color: white;
+}
+.fa-google-plus:before {
+  color: white;
+}
+.fad .fa-laugh-wink:after {
+    font-size: 55px;
+  }
+.far .fa-atom-alt:after {
+   font-size: 55px;
+}
